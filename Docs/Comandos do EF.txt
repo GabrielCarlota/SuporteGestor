@@ -1,0 +1,6 @@
+dotnet tool install --global dotnet-ef
+dotnet tool update --global dotnet-ef
+
+install-package Pomelo.EntityFrameworkCore.MySql
+install-package Microsoft.EntityFrameworkCore.Design
+
